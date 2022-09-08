@@ -10,11 +10,11 @@
 
 
 ## 저장소 구조 
-> simplescraper : 인터넷 커뮤니티 텍스트 크롤러, node.js 및 python 구현 
+> [simplescraper](https://github.com/btcbydata/simplescraper) : 인터넷 커뮤니티 텍스트 크롤러, node.js 및 python 구현 
 > 
-> btcbdfront : btcbydata의 웹 프론트엔드, vue.js 및 firebase 구현
+> [btcbdfront](https://github.com/btcbydata/btcbdfront) : btcbydata의 웹 프론트엔드, vue.js 및 firebase 구현
 >  
-> tempfront : 임시 작업 공간
+> [tempfront](https://github.com/btcbydata/tempfront) : 임시 작업 공간
 > 
 > (추가예정) nlpmodule : 자연어처리 관련 python 프로그램들 
 
